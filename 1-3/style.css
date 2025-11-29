@@ -1,1 +1,24 @@
 /* ここに記載 */
+.card {
+    display: inline-block;
+    vertical-align: top;
+    padding: 30px 20px;
+    color: black;
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 600px;
+    margin-right: 50px;
+    text-align: left;
+}
+button {
+    font-size: 1rem;
+    color: white;
+    background: blue;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 10px;
+}
+.card-btn:hover{
+    border-color:blue;
+    background: white;
+}

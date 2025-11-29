@@ -1,1 +1,27 @@
 /* ここに記載 */
+.box {
+    color: white;
+    background: black;
+    padding: 20px
+}
+.box1 {
+    color: black;
+    background: whitesmoke;
+    border: 1px solid gray;
+    padding: 20px;
+    margin: 20px;
+}
+.box2 {
+    color: black;
+    background: whitesmoke;
+    border: 1px solid gray;
+    padding: 20px;
+    margin: 20px;
+    margin-bottom: 40px;
+}
+footer {
+    color:white;
+    background: black;
+    padding: 20px;
+    text-align: center;
+}

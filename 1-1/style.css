@@ -1,1 +1,23 @@
-/* ここに記載 */
+h1 {
+    font-size: 2rem;
+    color: blue;
+}
+.box {
+
+}
+p {
+    color: darkgrey;
+
+}
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: orange;
+    text-decoration: none;
+}
+img{
+    width: 200px;
+    height: auto;
+}
